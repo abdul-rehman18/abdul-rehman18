@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman Nadeem</h1>
-<img src ="https://github.com/abdul-rehman18/abdul-rehman18/blob/a8af5cfadd385ac014f0dffa8882a6bee974b6fa/ABDUL%20REHMAN%20AD.png" />
+<img src ="https://github.com/abdul-rehman18/abdul-rehman18/blob/cfd1592171045485ad0a53dc976e5e9426f9e98a/Yellow%20Grey%20Modern%20Minimalist%20Digital%20Business%20Consultant%20Linkedin%20Banner.png" />
 <hr></hr>
 <h3 align="center">A passionate Jr. Front End Developer |WordPress | Shopify Developer | JavaScript Developer from Pakistan</h3>
 <p align="center">
