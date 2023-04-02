@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman Nadeem</h1>
 <img src ="https://github.com/abdul-rehman18/abdul-rehman18/blob/cfd1592171045485ad0a53dc976e5e9426f9e98a/Yellow%20Grey%20Modern%20Minimalist%20Digital%20Business%20Consultant%20Linkedin%20Banner.png" />
 <hr></hr>
-<h3 align="center">A passionate Jr. Front End Developer |WordPress | Shopify Developer | JavaScript Developer from Pakistan</h3>
+<h3 align="center">A passionate Jr. Front End Developer |Python Expert | ML/AI Enthusiast | JavaScript Developer | Shopify Developer  from Pakistan</h3>
 <p align="center">
   <samp>
     🔥 Software Developer grinding hard to make something cool  <br>✨ Favorite Tech: JavaScript, React, Typescript, Python ...  <br>📓 I’m currently learning OOP and DSA... 😭<br>💬 Ask me about anything<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I am overthinker<br>📧 abdulrehmanadeem14@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/python-django-ml-flutter-developer/<br> Twitter: https://twitter.com/18_abdulrehman
