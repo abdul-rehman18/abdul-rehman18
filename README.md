@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Jr. Front End Developer |Python Expert | ML/AI Enthusiast | JavaScript Developer | Shopify Developer  from Pakistan</h3>
 <p align="center">
   <samp>
-    🔥 Software Developer grinding hard to make something cool  <br>✨ Favorite Tech: JavaScript, React, Typescript, Python ...  <br>📓 I’m currently learning OOP and DSA... 😭<br>💬 Ask me about anything<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I am overthinker<br>📧 abdulrehmanadeem14@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/python-django-ml-flutter-developer/<br> Twitter: https://twitter.com/18_abdulrehman
+    🔥 Software Developer grinding hard to make something cool  <br>✨ Favorite Tech: ML, AI, Deep Learning, Python ...  <br>📓 I’m currently learning OS and DAA... 😭<br>💬 Ask me about anything<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I am overthinker<br>📧 abdulrehmanadeem14@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/python-django-ml-flutter-developer/<br> Twitter: https://twitter.com/18_abdulrehman
    </samp>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-rehman18&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-rehman18" /> </p>
