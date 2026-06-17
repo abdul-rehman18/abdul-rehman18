@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Full-stack AI Engineer with **3+ years** building production AI systems. I specialize in **voice agent architectures**, **agentic AI systems**, and **end-to-end ML deployment**. Currently developing voice agent architectures with sub-agent systems for database operations at **Wamo Labs**.
+Full-stack AI Engineer with **5+ years** building production AI systems. I specialize in **voice agent architectures**, **agentic AI systems**, and **end-to-end ML deployment**. Currently developing voice agent architectures with sub-agent systems for database operations.
 
 - 🔭 Currently working on **Voice AI pipelines & Multi-Agent Systems**
 - 🤖 Building **Agentic AI solutions** with function-calling & RAG
